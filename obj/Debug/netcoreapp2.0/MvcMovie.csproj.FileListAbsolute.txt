@@ -8,3 +8,13 @@
 /home/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
 /home/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
 /home/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
+/home/proyectoABMMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/home/proyectoABMMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/home/proyectoABMMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/home/proyectoABMMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/home/proyectoABMMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/home/proyectoABMMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/home/proyectoABMMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/home/proyectoABMMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/home/proyectoABMMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/home/proyectoABMMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb

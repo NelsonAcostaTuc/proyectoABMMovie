@@ -13128,11 +13128,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "/home/proyectoABMMovie/MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/home/MvcMovie/MvcMovie.csproj",
+      "projectPath": "/home/proyectoABMMovie/MvcMovie.csproj",
       "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/home/MvcMovie/obj/",
+      "outputPath": "/home/proyectoABMMovie/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
