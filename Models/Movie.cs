@@ -9,6 +9,9 @@ namespace MvcMovie.Models
     {
 
         public int ID { get;set;}
+        
+        [StringLength(60, MinimumLength = 3)]
+        [Required]
         public string Title { get;set;}
         
         [Display(Name = "Release Date")]
@@ -17,6 +20,10 @@ namespace MvcMovie.Models
         public string Genre { get;set;}
         
         public decimal Price { get;set;}
+
+       public string Rating { get; set; }
+
+       public string Country { get; set; }
 
         
     }
